@@ -1,6 +1,5 @@
 # Dashboard Ejecutivo de Inversión
 
-Prototipo web en Python para visualizar y analizar el simulador de inversión de la asignatura Economía Financiera.
 
 ## 1. Qué incluye
 
